@@ -1,1 +1,0 @@
-# czechitas-intro-to-pandas
